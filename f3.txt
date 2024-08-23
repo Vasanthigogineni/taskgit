@@ -1,3 +1,6 @@
 hello
+ HEAD
 how are you
 doing
+
+ branch3
